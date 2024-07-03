@@ -16,42 +16,42 @@ export const SIDENAV_ITEMS: SideNavItem[] = [
   {
     title: 'Home',
     path: '/',
-    icon: <Image src={home} alt="Settings image" width={24} height={24} />,
+    icon: <Image src={home} alt="Settings image" width={30} height={30} />,
   },
   {
     title: 'Explore',
     path: '/explore',
-    icon: <Image src={explore} alt="Settings image" width={24} height={24} />,
+    icon: <Image src={explore} alt="Settings image" width={30} height={30} />,
   },
   {
     title: 'Profile',
     path: '/profile',
-    icon: <Image src={profile} alt="Settings image" width={24} height={24} />,
+    icon: <Image src={profile} alt="Settings image" width={30} height={30} />,
   },
   {
     title: 'Notifications',
     path: '/notifications',
-    icon: <Image src={notifications} alt="Settings image" width={24} height={24} />,
+    icon: <Image src={notifications} alt="Settings image" width={30} height={30} />,
   },
   {
     title: 'Wallet',
     path: '/wallet',
-    icon: <Image src={wallet} alt="Settings image" width={24} height={24} />,
+    icon: <Image src={wallet} alt="Settings image" width={30} height={30} />,
   },
   {
     title: 'Your Circle',
     path: '/yourcircle',
-    icon: <Image src={circle} alt="Settings image" width={24} height={24} />,
+    icon: <Image src={circle} alt="Settings image" width={30} height={30} />,
   },
   {
     title: 'Get Verified',
     path: '/getverified',
-    icon: <Image src={verified} alt="Settings image" width={24} height={24} />,
+    icon: <Image src={verified} alt="Settings image" width={30} height={30} />,
   },
   {
     title: 'Settings',
     path: '/settings',
-    icon: <Image src={settings} alt="Settings image" width={24} height={24} />,
+    icon: <Image src={settings} alt="Settings image" width={30} height={30} />,
   },
 ];
 

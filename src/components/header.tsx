@@ -20,7 +20,7 @@ const Header = () => {
     <>
       {/* Desktop Header */}
       <div
-        className={`hidden md:block sticky inset-x-0 top-0 z-30 w-full transition-all border-b ${
+        className={`hidden md:block sticky inset-x-0 top-0 z-30 w-full transition-all mt-10 ${
           scrolled
             ? 'border-gray-200 bg-white/75 backdrop-blur-lg'
             : selectedLayout
